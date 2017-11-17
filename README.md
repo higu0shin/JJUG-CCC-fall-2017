@@ -14,5 +14,9 @@ JJUG CCC fall 2017「Elastic6.0ハンズオン」の事前準備、資料のペ�
 ５．ネットワークに接続できる or USBメモリのデータをコピーできること<br>
 
 ■配布資料 <br>
-準備中です。お待ちください。
+１．jjug_2017_fall.pdf (スライド)
+２．work.zip (必要なデータなど)
+３．elasticsearch (https://www.elastic.co/downloads/elasticsearch)
+４．kibana (https://www.elastic.co/downloads/kibana)
+５．logstash (https://www.elastic.co/downloads/logstash)
 
